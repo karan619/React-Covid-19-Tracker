@@ -1,4 +1,15 @@
-# React COVID Tracker
+# React COVID Tracker :microbe:
+
+![Project1](https://user-images.githubusercontent.com/22108887/120113332-f3ad6d00-c147-11eb-8088-2798660fa82d.PNG)
+
+## Features :fire:
+
+:arrow_right: Shows real-time information about active number of covid cases worldwide or country wise.<br>
+:arrow_right: By selecting the country the map will auto direct to that country and by clicking on it you can see the number of case, deaths and recovered.<br>
+
+## Topics:
+:arrow_right: How to use react-leaft.js for creating responsive map .<br>
+:arrow_right: How to react-chart.js react leaft for creating graps .<br>
 
 
 ## Available Scripts
