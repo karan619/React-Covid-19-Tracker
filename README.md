@@ -12,6 +12,13 @@
 :arrow_right: How to react-chart.js react leaft for creating graps .<br>
 
 
+
+## TODO :computer:
+
+:pushpin: To add vaccination status around world and country wise <br>
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
